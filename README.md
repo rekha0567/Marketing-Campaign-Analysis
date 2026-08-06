@@ -22,8 +22,8 @@ A 6,000-record sales dataset containing transaction-level campaign data, with co
 - Delivered 6 data-driven recommendations based on the findings, covering where to increase spend and where performance needed attention.
 
 ## Files in This Repo
-- `Sales_dataset.xlsx` cleaned dataset, pivot tables, and dashboard
-- `SQL.sql` SQL used for cleaning, type casting, and analysis
+- `Sales_dataset.xlsx`- cleaned dataset, pivot tables, and dashboard
+- `SQL.sql`- SQL used for cleaning, type casting, and analysis
 
 ## Tools Used
-Excel (Pivot Tables, KPI Dashboard) SQL (data cleaning, joins, window functions)
+Excel (Pivot Tables, KPI Dashboard) | SQL (data cleaning, joins, window functions)
